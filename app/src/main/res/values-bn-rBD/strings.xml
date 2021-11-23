@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">অনেক ভাষা ব্যবহার করুন</string>
+    <string name="enter_email">আপনার ইমেইল প্রদান করুন</string>
+    <string name="enter_password">আপনার পাসোয়ার্ড প্রদান করুন</string>
+    <string name="sign_in">সাইন ইন</string>
+    <string name="change_language">ভাষা পরিবর্তন করুন</string>
+</resources>

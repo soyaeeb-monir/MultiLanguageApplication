@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multi Language Application</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="change_language">Change Language</string>
+</resources>
